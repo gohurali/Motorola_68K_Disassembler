@@ -36,3 +36,7 @@ The following gif shows the process of how to run the disassembler program. Befo
 * Address Register Indirect with Pre decrementing
 * Absolute Long Address
 * Absolute Word Address
+
+
+## Testing
+The disassembler was tested by adding a test file loaded to a specified location in memory depending where the test file was ORG'd. Our personal testing file is provided for your convenience.
