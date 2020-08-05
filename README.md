@@ -1,6 +1,6 @@
 # Motorola 68K Disassembler  
 
-**The code for this project has been hidden seperately to prevent academic honesty.**
+**The code for this project has been hidden seperately to prevent academic dishonesty.**
 
 We created a disassembler for the Motorola 68000 microprocessor using assembly language. The purpose of this project is aquiring a deep understanding of 68K assembly and working with input at the bit level. Additionally, learn to get a feel of starting and finishing a large scale software project, understanding time management, and software stress testing.  
 
